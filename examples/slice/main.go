@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	r "github.com/xyproto/rangetype"
+	r "github.com/sniperkit/rangetype"
 )
 
 func main() {
